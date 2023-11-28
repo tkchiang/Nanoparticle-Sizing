@@ -1,3 +1,6 @@
+// This is a FIJI/ImageJ macro that runs the DDM algorithm on an .h5 video file.
+// The output is a stack of unprocessed Fourier difference images.
+
 RawImagesTitle = getTitle();
 numFrames = nSlices();
 
