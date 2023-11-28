@@ -1,4 +1,4 @@
-# Particle Sizing
+# Nanoparticle Sizing
 
 This repository contains MATLAB and Python code that analyzes light scattering data.
 
